@@ -1,0 +1,16 @@
+Package: SC19088
+Title: Final Homework 
+Version: 1.0.0
+Authors@R: 
+    person(given = "Jiang",
+           family = "Siyu",
+           role = c("aut", "cre"),
+           email = "849505139@qq.com")
+Suggests:roxygen2
+Imports: knitr,rmarkdown,MASS,nlme,mgcv,splines
+Description: A summary for SC.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
