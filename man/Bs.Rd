@@ -9,14 +9,13 @@ Bs(n, m)
 \arguments{
 \item{n}{the number of data which are simulated by f=sin(12*(x+0.2))/(x+0.2)}
 
-\item{m}{the hurst index, with the default value 0.71}
+\item{m}{regression functions with m equidistant inner knots}
 }
 \value{
 numeric vector
 }
 \description{
-This function generatea a time series of one dimension fractional Brownian motion.
-adapted from http://www.mathworks.com.au/matlabcentral/fileexchange/38935-fractional-brownian-motion-generator .
+This function is B-spline regression functions with any m equidistant inner knots and different orders k = 1 to 6.
 }
 \examples{
 Bs(100,6)

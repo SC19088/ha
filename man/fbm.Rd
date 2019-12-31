@@ -16,7 +16,6 @@ numeric vector
 }
 \description{
 This function generatea a time series of one dimension fractional Brownian motion.
-adapted from http://www.mathworks.com.au/matlabcentral/fileexchange/38935-fractional-brownian-motion-generator .
 }
 \examples{
 d <- fbm(hurst=0.5, n=500)
