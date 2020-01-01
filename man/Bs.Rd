@@ -2,7 +2,7 @@
 % Please edit documentation in R/Bspline.R
 \name{Bs}
 \alias{Bs}
-\title{Generate a time series of fractional Brownian motion.}
+\title{Compare different orders k in B-spline regression functions with any m equidistant inner knots}
 \usage{
 Bs(n, m)
 }

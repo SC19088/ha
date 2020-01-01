@@ -1,4 +1,4 @@
-#' Generate a time series of fractional Brownian motion.
+#' Compare different orders k in B-spline regression functions with any m equidistant inner knots
 #'
 #' This function is B-spline regression functions with any m equidistant inner knots and different orders k = 1 to 6.
 #'
